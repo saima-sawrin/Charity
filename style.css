@@ -46,6 +46,7 @@ body{
     margin-top: 2%;
     
 }
+/*section1 Ended */
 /*section2 started */
 
 .Donate_today {
@@ -93,6 +94,8 @@ body{
 .Donate_button2{
     margin-top: 5%;
 }
+/*section2 Ended */
+
 /*section3 started */
 #Section3{
     text-align: center;
@@ -137,6 +140,8 @@ body{
 .D_box3{
     background-color: rgb(248, 243, 236);
 }
+/*section3 Ended */
+
 /*section4 started */
 .section4{
     display: flex;
@@ -160,6 +165,8 @@ body{
     text-align: left;
     margin-top: 5%;
 }
+/*section4 Ended */
+
 /*section5 started */
 .section5{
     display: flex;
@@ -180,11 +187,13 @@ body{
 .text_part h1{
     font-size: 50px;
 }
+/*section5 Ended */
 /*section_6 started */
 .section_6 h1{
 text-align: center;
 font-size: 50px;
 margin-top: 100px;
+margin-bottom: 50px;
 }
 #News_box{
     display: flex;
@@ -209,6 +218,7 @@ margin-top: 100px;
     padding-left: 20px;
     margin: auto;
 }
+/*section6 Ended */
 /*section7 started */
 .section7{
     text-align: center;
@@ -276,6 +286,7 @@ margin-top: 100px;
   font-size: 16px;
   border-radius: 0px 5px 5px 0px;
 }
+/*section7 Ended */
 /*bottom section started*/
 .bottom{
     width: 100%;

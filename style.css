@@ -145,7 +145,7 @@ body{
 .half-width1{
     width: 40%;
     margin: auto;
-    padding-left: 40px;
+    padding-left: 45px;
 }
 .half-width1 h1{
     font-size: 50px;
@@ -153,6 +153,8 @@ body{
 .half-width2{
     width: 50%;
     margin: auto;
+    padding-right: 45px;
+
 }
 .con_button{
     text-align: left;
@@ -166,7 +168,7 @@ body{
 .img_prt{
     
     margin: auto;
-    padding-left: 20px;
+    padding-left: 15px;
     
 }
 .text_part{
@@ -178,17 +180,46 @@ body{
 .text_part h1{
     font-size: 50px;
 }
-/*section6 started */
-.section6{
+/*section_6 started */
+.section_6 h1{
+text-align: center;
+font-size: 50px;
+margin-top: 100px;
+}
+#News_box{
+    display: flex;
+    width: 90%;
+    padding-left: 20px;
+    text-align: left;
+    margin: auto;
+    
+}
+#News_box1{
+    padding-left: 10px;
+    width: 50%;
+    text-align: left;
+    
+}
+.News_box2{
+    padding-left: 10px;
+    text-align: left;
+    width: 50%;
+}
+.news_Text_box{
+    padding-left: 20px;
+    margin: auto;
+}
+/*section7 started */
+.section7{
     text-align: center;
     width: 60%;
     margin: auto;
 }
-.section6 h1{
+.section7 h1{
     font-size: 50px;
     
 }
-.section6 p{
+.section7 p{
     color: gray;
 }
 .mailbox{
@@ -216,6 +247,7 @@ body{
     margin-left: 25%;
     margin-top: 7%;
     border-radius: 5px;
+    border-radius: 5px 0px 0px 5px;
 }
 .bg_box h3{
     color: rgb(147, 138, 138);
@@ -230,7 +262,7 @@ body{
     text-align:center;
     margin-right: 10%;
     margin-top: 7%;
-    border-radius: 5px 0px 0px 5px;
+    
     
 }
 .btn{
